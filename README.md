@@ -1,7 +1,8 @@
 # Gnop
 Gnop! is a 4-directional Pong knockoff made in TIC-80 using Lua.
 
-## Members' Discords: @jeezcalmdown #1305, @Swarupa V #7985, @desidesz19 #1293, @MasterOfTheTiget#8812
+## Members' Discords:
+@jeezcalmdown #1305, @Swarupa V #7985, @desidesz19 #1293, @MasterOfTheTiget#8812
 
 ## Required
 1. Download TIC-80 from https://tic80.com/create.
