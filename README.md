@@ -27,7 +27,7 @@ Player2 is blue.
  We wrote the code entirely from scratch in TIC-80 ~ which does make the process really easy,
  but we were accountable for each and every pixel. So, we did the math, and came up with the
  layout and everything. Then we wrote the code and tada! We know it's not fancy, but good for
- game built entirely from the ground up!
+ a game built entirely from the ground up!
  
  ## Why We Chose TIC-80
  We did not choose TIC-80, TIC-80 chose us. Given the fact that my laptop could not handle big
